@@ -156,6 +156,8 @@ cython_debug/
 
 3DDFA_V2/
 pretrained_models/
+PTI/pretrained_models
+STIT/pretrained_models
 
 # PyTorch weights
 *.tar
