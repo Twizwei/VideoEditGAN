@@ -4,9 +4,14 @@
 
 [Project Website](https://video-edit-gan.github.io/) | [Paper](https://arxiv.org/abs/2206.10590)
 
+<p align="center">
+<img src="examples/videogan_teaser.gif" width="400px"/>  
+</p>
+
 This is the repo for ECCV'22 paper, "Temporally Consistent Semantic Video Editing". 
 
 ## Updates
+09/25/2022: added example code.
 07/16/2022: repo initialized.
 
 ## Prerequisites
