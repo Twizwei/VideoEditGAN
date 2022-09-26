@@ -11,8 +11,8 @@
 This is the repo for ECCV'22 paper, "Temporally Consistent Semantic Video Editing". 
 
 ## Updates
-09/25/2022: added example code.
-07/16/2022: repo initialized.
+- 09/25/2022: added example code.
+- 07/16/2022: repo initialized.
 
 ## Prerequisites
 - Linux
